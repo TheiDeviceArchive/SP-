@@ -14,7 +14,7 @@ Compatibility:
 
 - SP++ has been optimized for 3.5" devices only, but with the resolution from one of these devices is set on a device with a larger screen, it should look normal.
 
-- SP++ works best on iPhone's/iPod's, but can be used on iPad's as well.  In order to make it look somewhat normal, the resolution would have be heavily adjusted.
+- SP++ works best on iPhone's/iPod's, but can be used on iPad's as well.  In order to make it look somewhat normal, the resolution would have to be heavily adjusted.
 
 Best devices to install SP++ on:
 - iPhone 3G
