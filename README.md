@@ -9,11 +9,12 @@ Requirements:
 
 
 Compatibility: 
-SP++ has been tested on iOS 4, 5, 6, 7, and 10, but should be working on all other iOS versions that support Dreamboard.
 
-SP++ has been optimized for 3.5" devices only, but with the resolution from one of these devices is set on a device with a larger screen, it should look normal.
+- SP++ has been tested on iOS 4, 5, 6, 7, and 10, but should be working on all other iOS versions that support Dreamboard.
 
-SP++ works best on iPhone's/iPod's, but can be used on iPad's as well.  In order to make it look somewhat normal, the resolution would have be heavily adjusted.
+- SP++ has been optimized for 3.5" devices only, but with the resolution from one of these devices is set on a device with a larger screen, it should look normal.
+
+- SP++ works best on iPhone's/iPod's, but can be used on iPad's as well.  In order to make it look somewhat normal, the resolution would have be heavily adjusted.
 
 Best devices to install SP++ on:
 - iPhone 3G
